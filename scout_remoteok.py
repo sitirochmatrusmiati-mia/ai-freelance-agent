@@ -38,11 +38,23 @@ HEADERS = {
 }
 
 
-def fetch_remoteok_jobs(tag: str | None = None) -> list[dict]:
+def is_remote_job(job: dict) -> bool:
+    """Cek apakah job ini beneran remote, bukan lowongan on-site.
+
+    Pengamatan dari data asli: job remote sungguhan punya field `location`
+    kosong atau berisi kata "remote". Job on-site (hotel, toko, pabrik, dst)
+    selalu punya nama kota/negara di field ini, mis. "San Juan, " atau
+    "Ipojuca, ". Ini jauh lebih akurat daripada menebak dari kata kunci judul.
+    """
+    location = (job.get("location") or "").strip().lower()
+    return location == "" or "remote" in location
+
+
+def fetch_remoteok_jobs(tag: str | None = None, remote_only: bool = True) -> list[dict]:
     """Ambil daftar job mentah dari RemoteOK API.
 
     RemoteOK tidak menyediakan query param filter di endpoint resmi,
-    jadi kita ambil semua lalu filter tag secara lokal.
+    jadi kita ambil semua lalu filter tag & lokasi secara lokal.
     """
     req = urllib.request.Request(REMOTEOK_API_URL, headers=HEADERS)
     try:
@@ -57,6 +69,12 @@ def fetch_remoteok_jobs(tag: str | None = None) -> list[dict]:
 
     # Elemen pertama biasanya metadata legal, bukan job asli -> skip
     jobs = [item for item in raw if isinstance(item, dict) and item.get("id")]
+
+    total_before = len(jobs)
+
+    if remote_only:
+        jobs = [j for j in jobs if is_remote_job(j)]
+        print(f"[scout] Filter lokasi: {total_before} -> {len(jobs)} job remote asli.")
 
     if tag:
         tag_lower = tag.lower()
@@ -110,10 +128,15 @@ def save_task_pool(tasks: list[dict]) -> None:
 def main():
     parser = argparse.ArgumentParser(description="Scout agent untuk RemoteOK")
     parser.add_argument("--tag", help="Filter berdasarkan tag, mis. 'python'", default=None)
+    parser.add_argument(
+        "--include-onsite",
+        action="store_true",
+        help="Matikan filter remote-only, ambil semua job termasuk yang on-site",
+    )
     args = parser.parse_args()
 
     print(f"[scout] Mengambil listing dari RemoteOK (tag={args.tag or 'semua'})...")
-    raw_jobs = fetch_remoteok_jobs(tag=args.tag)
+    raw_jobs = fetch_remoteok_jobs(tag=args.tag, remote_only=not args.include_onsite)
     print(f"[scout] Ditemukan {len(raw_jobs)} listing mentah.")
 
     tasks = [normalize_task(j) for j in raw_jobs]
