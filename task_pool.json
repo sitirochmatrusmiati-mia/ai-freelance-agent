@@ -2234,5 +2234,34 @@
     "posted_at": "2026-08-27T00:00:23+00:00",
     "fetched_at": 1788566944,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137307",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+    "title": "Junior Crypto Analyst & Trader",
+    "company": "Empire Assets",
+    "tags": [
+      "other",
+      "crypto",
+      "remote",
+      "trader",
+      "analyst",
+      "Binance",
+      "web3",
+      "bitcoin",
+      "ethereum",
+      "blockchain",
+      "defi",
+      "part time",
+      "junior"
+    ],
+    "salary_min": 60000,
+    "salary_max": 80000,
+    "location": "remote",
+    "description_snippet": "<div class=\"vacancy-intro\"><p>Empire Assets is a young and rapidly developing company working in the field of digital markets and analytics. We bring together enterprising people who want to master modern approaches to trading, analysis and decision-making in a dynamic market env",
+    "posted_at": "2026-09-04T15:13:46+00:00",
+    "fetched_at": 1788621293,
+    "status": "new"
   }
 ]
