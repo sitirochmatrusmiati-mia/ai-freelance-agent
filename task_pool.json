@@ -2282,5 +2282,34 @@
     "posted_at": "2026-09-06T03:47:24+00:00",
     "fetched_at": 1788754637,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137155",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
+    "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
+    "company": "Tessera Labs",
+    "tags": [
+      "design",
+      "sys admin",
+      "consulting",
+      "testing",
+      "exec",
+      "cloud",
+      "senior",
+      "ops",
+      "engineer",
+      "ecommerce",
+      "shopify",
+      "full time",
+      "digital nomad"
+    ],
+    "salary_min": 30,
+    "salary_max": 36,
+    "location": "remote",
+    "description_snippet": "<p style=\"min-height:1.5em\"><strong>Oracle Fusion Cloud Lead â Logistics &amp; Supply Chain Management</strong></p><p style=\"min-height:1.5em\"><strong>Greenfield Oracle Fusion Implementation</strong></p><p style=\"min-height:1.5em\">Company <strong>Tessera Labs AI</strong></p><p ",
+    "posted_at": "2026-08-27T00:00:17+00:00",
+    "fetched_at": 1788758168,
+    "status": "new"
   }
 ]
