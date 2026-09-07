@@ -2263,5 +2263,24 @@
     "posted_at": "2026-09-04T15:13:46+00:00",
     "fetched_at": 1788621293,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137309",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309",
+    "title": "AI Response Analyst",
+    "company": "iMerit Technology",
+    "tags": [
+      "content writing",
+      "quality assurance",
+      "ai"
+    ],
+    "salary_min": 20000,
+    "salary_max": 20000,
+    "location": "remote",
+    "description_snippet": "<h2 dir=\"ltr\">The work</h2><p dir=\"ltr\">iMerit, an EXL company, is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts. You will judge answers on accuracy, relevance, clarity, conciseness, safety, localization, and how well they",
+    "posted_at": "2026-09-06T03:47:24+00:00",
+    "fetched_at": 1788754637,
+    "status": "new"
   }
 ]
