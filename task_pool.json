@@ -2311,5 +2311,28 @@
     "posted_at": "2026-08-27T00:00:17+00:00",
     "fetched_at": 1788758168,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137314",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314",
+    "title": "Social Comms",
+    "company": "NOPE",
+    "tags": [
+      "marketing",
+      "education",
+      "technical",
+      "content writing",
+      "social media",
+      "ai",
+      "social"
+    ],
+    "salary_min": 90000,
+    "salary_max": 150000,
+    "location": "remote",
+    "description_snippet": "<p>Important: <strong>This is a contract/part-time role: 10-20 hrs/week - rate $40-50/hr</strong><br /><br />NOPE is an AI safety company with a unique goal; we do not concern ourselves with bio or cyber-risks or other Hollywood-ized alignment fantasies. We are concerned instead ",
+    "posted_at": "2026-09-08T02:35:30+00:00",
+    "fetched_at": 1788923821,
+    "status": "new"
   }
 ]
