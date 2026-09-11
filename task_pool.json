@@ -2959,5 +2959,24 @@
     "posted_at": "2026-07-29T20:00:01+00:00",
     "fetched_at": 1788999755,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137375",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
+    "title": "External Data Specialist",
+    "company": "eClinical Solutions",
+    "tags": [
+      "cloud",
+      "exec",
+      "stats"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Remote",
+    "description_snippet": "eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud â the foundation of digital trials. Together, the elluminate platform and digital data services gi",
+    "posted_at": "2026-09-10T16:00:15+00:00",
+    "fetched_at": 1789143465,
+    "status": "new"
   }
 ]
