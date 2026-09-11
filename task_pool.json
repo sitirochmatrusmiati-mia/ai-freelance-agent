@@ -2978,5 +2978,23 @@
     "posted_at": "2026-09-10T16:00:15+00:00",
     "fetched_at": 1789143465,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137378",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
+    "title": "Senior People & Talent Operations Partner",
+    "company": "TestGorilla",
+    "tags": [
+      "hr",
+      "non tech"
+    ],
+    "salary_min": 70000,
+    "salary_max": 80000,
+    "location": "remote",
+    "description_snippet": "<p dir=\"ltr\">â¡ This one's going to move fast. We're expecting a lot of interest, so we're running this as a focused hiring sprint. Applications and assessments close September 20, with interviews happening over the two weeks after that.Â </p><p dir=\"ltr\">ð Where do we hire f",
+    "posted_at": "2026-09-10T21:13:22+00:00",
+    "fetched_at": 1789161341,
+    "status": "new"
   }
 ]
