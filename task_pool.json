@@ -2996,5 +2996,31 @@
     "posted_at": "2026-09-10T21:13:22+00:00",
     "fetched_at": 1789161341,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137381",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381",
+    "title": "Marketing Student Assistant",
+    "company": "Copenhagen Optimization",
+    "tags": [
+      "virtual assistant",
+      "strategy",
+      "customer support",
+      "dev",
+      "marketing",
+      "exec",
+      "content writing",
+      "ops",
+      "golang",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "&lt;h3&gt;Marketing Student Assistant&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Are you studying marketing, communications or business and looking for a student job where you can build hands-on marketing experience and see how it all comes together in practice?&lt;/strong&gt;&lt;/p&gt;&lt",
+    "posted_at": "2026-09-11T08:00:08+00:00",
+    "fetched_at": 1789200982,
+    "status": "new"
   }
 ]
