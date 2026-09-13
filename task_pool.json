@@ -3050,5 +3050,25 @@
     "posted_at": "2026-09-12T00:00:05+00:00",
     "fetched_at": 1789259066,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137387",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
+    "title": "Software Engineer",
+    "company": "Mirantis",
+    "tags": [
+      "golang",
+      "dev",
+      "engineer",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio.",
+    "posted_at": "2026-09-12T14:00:03+00:00",
+    "fetched_at": 1789308942,
+    "status": "new"
   }
 ]
