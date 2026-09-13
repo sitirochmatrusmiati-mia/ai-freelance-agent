@@ -3022,5 +3022,33 @@
     "posted_at": "2026-09-11T08:00:08+00:00",
     "fetched_at": 1789200982,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137386",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
+    "title": "HR Operations Specialist",
+    "company": "Law Offices of Sabrina Li",
+    "tags": [
+      "hr",
+      "education",
+      "customer support",
+      "marketing",
+      "finance",
+      "c",
+      "exec",
+      "content writing",
+      "ops",
+      "legal",
+      "recruiter",
+      "full time"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>Job Title: HR Operations SpecialistÂ </p><p>Type: Independent ContractorÂ </p><p>Location: Remote | South Africa</p><p></p><p>About Us</p><p>The Law Offices of Sabrina Li, P.C. is a leading, full-service U.S. immigration law firm with offices in Los Angeles, Pasadena, Santa An",
+    "posted_at": "2026-09-12T00:00:05+00:00",
+    "fetched_at": 1789259066,
+    "status": "new"
   }
 ]
