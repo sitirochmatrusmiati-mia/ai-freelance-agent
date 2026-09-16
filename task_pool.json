@@ -3130,5 +3130,33 @@
     "posted_at": "2026-09-14T00:00:04+00:00",
     "fetched_at": 1789431870,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137394",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+    "title": "Sr Solutions Architect",
+    "company": "ExtraHop",
+    "tags": [
+      "architecture",
+      "design",
+      "infosec",
+      "python",
+      "technical",
+      "customer support",
+      "javascript",
+      "api",
+      "ops",
+      "marketing",
+      "sales",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Remote",
+    "description_snippet": "At ExtraHop, weâre on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on Ex",
+    "posted_at": "2026-09-15T00:00:26+00:00",
+    "fetched_at": 1789518163,
+    "status": "new"
   }
 ]
