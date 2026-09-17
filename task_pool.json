@@ -3226,5 +3226,24 @@
     "posted_at": "2026-09-16T12:44:27+00:00",
     "fetched_at": 1789651088,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137400",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+    "title": "Golang Kubernetes Engineer",
+    "company": "Arango",
+    "tags": [
+      "golang",
+      "golang",
+      "engineer"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "Remote - Arango delivers a unified, natively multimodel contextual data platform that powers AI agents, assistants, and applications with the unified, current, and trusted business context needed to reason, decide, and act at scale.The Arango Contextual Data Platform connects...<",
+    "posted_at": "2026-09-16T19:00:02+00:00",
+    "fetched_at": 1789672476,
+    "status": "new"
   }
 ]
