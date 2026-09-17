@@ -3187,5 +3187,24 @@
     "posted_at": "2026-09-16T00:00:13+00:00",
     "fetched_at": 1789604547,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137398",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398",
+    "title": "AI Trainer Image QA Evaluator",
+    "company": "iMerit Technology",
+    "tags": [
+      "ai",
+      "data annotation",
+      "quality assurance"
+    ],
+    "salary_min": 30000,
+    "salary_max": 40000,
+    "location": "remote",
+    "description_snippet": "<p class=\"isSelectedEnd\"><strong>Location:</strong> South Korea | Remote<br /><strong>Engagement:</strong> Freelance / Independent Contractor | Project-Based | Part-Time</p><h3>About the Project</h3><p class=\"isSelectedEnd\">We are looking for <strong>English-speaking Image Qualit",
+    "posted_at": "2026-09-16T06:55:47+00:00",
+    "fetched_at": 1789629508,
+    "status": "new"
   }
 ]
