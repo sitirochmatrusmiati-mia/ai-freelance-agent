@@ -3158,5 +3158,34 @@
     "posted_at": "2026-09-15T00:00:26+00:00",
     "fetched_at": 1789518163,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137396",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
+    "title": "Principal Product Manager",
+    "company": "DomainTools",
+    "tags": [
+      "product manager",
+      "exec",
+      "infosec",
+      "marketing",
+      "design",
+      "web dev",
+      "scrum",
+      "cloud",
+      "api",
+      "stats",
+      "sales",
+      "engineer",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>DomainTools is looking for a Principal Product Manager to join its Product team. Data is the backbone of our products, and this role will be responsible for growing and refining the data products that drive our threat intelligence solutions, with API-first delivery and integra",
+    "posted_at": "2026-09-16T00:00:13+00:00",
+    "fetched_at": 1789604547,
+    "status": "new"
   }
 ]
