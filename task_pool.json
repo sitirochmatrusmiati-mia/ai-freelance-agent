@@ -3206,5 +3206,25 @@
     "posted_at": "2026-09-16T06:55:47+00:00",
     "fetched_at": 1789629508,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137399",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "tags": [
+      "ai",
+      "golang",
+      "javascript",
+      "typescript"
+    ],
+    "salary_min": 150000,
+    "salary_max": 250000,
+    "location": "remote",
+    "description_snippet": "<div class=\"_descriptionText_135ul_202\"><div class=\"_descriptionText_5yu8i_201 ashby-job-posting-description\"><p>Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.</p><div><br /></div><p>We're h",
+    "posted_at": "2026-09-16T12:44:27+00:00",
+    "fetched_at": 1789651088,
+    "status": "new"
   }
 ]
