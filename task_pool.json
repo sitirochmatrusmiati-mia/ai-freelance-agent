@@ -3245,5 +3245,26 @@
     "posted_at": "2026-09-16T19:00:02+00:00",
     "fetched_at": 1789672476,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137405",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
+    "title": "Senior Shopify Developer",
+    "company": "Sanctuary Computer",
+    "tags": [
+      "dev",
+      "engineer",
+      "senior",
+      "front end",
+      "shopify"
+    ],
+    "salary_min": 80000,
+    "salary_max": 250000,
+    "location": "remote",
+    "description_snippet": "<p>We are hiring aÂ <strong>contract-based Senior Shopify Developer</strong>Â to contribute to our Design and Development Team.</p><p><a href=\"https://garden3d.notion.site/Senior-Shopify-Developer-3dd131fea2c78051b514d89208aa0001?source=copy_link\"><strong>Original Job posting lin",
+    "posted_at": "2026-09-18T13:29:53+00:00",
+    "fetched_at": 1789827338,
+    "status": "new"
   }
 ]
