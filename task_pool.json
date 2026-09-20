@@ -3300,5 +3300,26 @@
     "posted_at": "2026-09-19T00:00:06+00:00",
     "fetched_at": 1789863849,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137409",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
+    "title": "Backend Software Engineer",
+    "company": "Airspace Link",
+    "tags": [
+      "golang",
+      "dev",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with Airspace Linkâs d.",
+    "posted_at": "2026-09-19T20:00:01+00:00",
+    "fetched_at": 1789935322,
+    "status": "new"
   }
 ]
