@@ -3266,5 +3266,39 @@
     "posted_at": "2026-09-18T13:29:53+00:00",
     "fetched_at": 1789827338,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137406",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406",
+    "title": "Customer Success Manager Mexico",
+    "company": "JumpCloud",
+    "tags": [
+      "customer support",
+      "exec",
+      "saas",
+      "sys admin",
+      "swift",
+      "infosec",
+      "technical",
+      "marketing",
+      "travel",
+      "speech",
+      "finance",
+      "education",
+      "c",
+      "mobile",
+      "sales",
+      "medical",
+      "recruiter",
+      "engineer"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Mexico City, Mexico - Remote",
+    "description_snippet": "<p>\n</p><p><strong>All roles at JumpCloudÂ® are Remote unless otherwise specified in the Job Description.</strong></p>\n<h3>About JumpCloudÂ®</h3>\n<p>JumpCloudÂ® is the AI-powered unified IT management platform designed to secure the modern workforce. By consolidating identity, de",
+    "posted_at": "2026-09-19T00:00:06+00:00",
+    "fetched_at": 1789863849,
+    "status": "new"
   }
 ]
