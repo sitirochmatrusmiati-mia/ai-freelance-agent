@@ -3362,5 +3362,31 @@
     "posted_at": "2026-09-20T00:00:31+00:00",
     "fetched_at": 1789950211,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137412",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412",
+    "title": "People Operations Coordinator",
+    "company": "Ashby",
+    "tags": [
+      "saas",
+      "recruiter",
+      "coordinator",
+      "customer support",
+      "dev",
+      "exec",
+      "education",
+      "ops",
+      "medical",
+      "digital nomad"
+    ],
+    "salary_min": 55000,
+    "salary_max": 80000,
+    "location": "remote",
+    "description_snippet": "<p style=\"min-height:1.5em\">Hi! Iâm Hannah and I lead People Operations here at Ashby. I joined over four years ago as the first People hire and Iâm excited that our People Ops team is growing! The People Operations team supports Ashby employees through the development and im",
+    "posted_at": "2026-09-21T16:00:11+00:00",
+    "fetched_at": 1790093822,
+    "status": "new"
   }
 ]
