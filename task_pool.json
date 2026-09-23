@@ -3406,5 +3406,27 @@
     "posted_at": "2026-09-22T00:00:13+00:00",
     "fetched_at": 1790122898,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137417",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417",
+    "title": "Software Developer Security Analytics",
+    "company": "RedMimicry",
+    "tags": [
+      "golang",
+      "infosec",
+      "dev",
+      "stats",
+      "full time",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Full-time, 40 hours per weekContract: Fixed-termSalary: EUR 69,000 â 77,000We are building a new capability that turns fragmented, noisy security logs...<br/><br/>",
+    "posted_at": "2026-09-22T09:00:01+00:00",
+    "fetched_at": 1790154998,
+    "status": "new"
   }
 ]
