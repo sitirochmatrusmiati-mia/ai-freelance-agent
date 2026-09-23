@@ -3428,5 +3428,35 @@
     "posted_at": "2026-09-22T09:00:01+00:00",
     "fetched_at": 1790154998,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137418",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
+    "title": "Junior Digital Assets Operations Analyst",
+    "company": "Omega Enterprises",
+    "tags": [
+      "other",
+      "crypto",
+      "remote",
+      "education",
+      "web3",
+      "bitcoin",
+      "ethereum",
+      "part time",
+      "finance",
+      "blockchain",
+      "defi",
+      "junior",
+      "analyst",
+      "ops"
+    ],
+    "salary_min": 60000,
+    "salary_max": 80000,
+    "location": "remote",
+    "description_snippet": "<p>Application URL<br /><a href=\"https://omegadg.com/work/remoteok\">https://omegadg.com/work/remoteok</a><br /><br />Omega Enterprises is an international digital-assets company focused on cryptocurrency markets, market intelligence, and data-based financial operations. We are ex",
+    "posted_at": "2026-09-22T14:36:54+00:00",
+    "fetched_at": 1790176591,
+    "status": "new"
   }
 ]
