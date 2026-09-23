@@ -3388,5 +3388,23 @@
     "posted_at": "2026-09-21T16:00:11+00:00",
     "fetched_at": 1790093822,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137415",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415",
+    "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
+    "company": "Mindrift - Data annotation",
+    "tags": [
+      "data annotation",
+      "c"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "Gana dinero grabando actividades de tu vida diaria<p>Buscamos personas para grabar actividades cotidianas desde una perspectiva en primera persona utilizando una aplicaciÃ³n mÃ³vil.</p><p>Puedes grabar tareas que ya realizas normalmente, como:</p><p>â¢ Cocinar<br />â¢ Limpiar<b",
+    "posted_at": "2026-09-22T00:00:13+00:00",
+    "fetched_at": 1790122898,
+    "status": "new"
   }
 ]
