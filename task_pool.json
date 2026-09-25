@@ -3497,5 +3497,20 @@
     "posted_at": "2026-09-23T21:40:19+00:00",
     "fetched_at": 1790288188,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137429",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429",
+    "title": "MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos",
+    "company": "Workana",
+    "tags": [],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>Buscamos un/a MecÃ¡nico/a Automotriz con experiencia en diagnÃ³stico tÃ©cnico, mantenimiento y reparaciÃ³n de vehÃ­culos multimarca.</p><p>La persona serÃ¡ responsable de analizar las fallas de los vehÃ­culos que ingresan al taller, realizar diagnÃ³sticos precisos y preparar l",
+    "posted_at": "2026-09-24T00:00:07+00:00",
+    "fetched_at": 1790295880,
+    "status": "new"
   }
 ]
