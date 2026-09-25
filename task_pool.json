@@ -3512,5 +3512,30 @@
     "posted_at": "2026-09-24T00:00:07+00:00",
     "fetched_at": 1790295880,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137431",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431",
+    "title": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
+    "company": "Mercier Consultancy Group",
+    "tags": [
+      "consulting",
+      "education",
+      "technical",
+      "customer support",
+      "marketing",
+      "travel",
+      "excel",
+      "medical",
+      "recruiter"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>Danish Speaking Solutions Consultant</p><p>About Mercier Consultancy Group</p><p>Mercier Consultancy Group is a premier international staffing firm, recognized for bridging the gap between high-caliber talent and global industry leaders. We pride ourselves on delivering bespok",
+    "posted_at": "2026-09-24T16:00:06+00:00",
+    "fetched_at": 1790353063,
+    "status": "new"
   }
 ]
