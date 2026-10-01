@@ -3554,5 +3554,23 @@
     "posted_at": "2026-09-30T16:13:39+00:00",
     "fetched_at": 1790871580,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137451",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
+    "title": "Enterprise Sales Development Representative",
+    "company": "Toptal",
+    "tags": [
+      "customer support",
+      "sales"
+    ],
+    "salary_min": 10000,
+    "salary_max": 50000,
+    "location": "remote",
+    "description_snippet": "<h3>About Toptal</h3><p>Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue <strong>and team members based around the globe</strong>, Toptal is the <a href=\"https",
+    "posted_at": "2026-09-30T18:24:42+00:00",
+    "fetched_at": 1790882304,
+    "status": "new"
   }
 ]
