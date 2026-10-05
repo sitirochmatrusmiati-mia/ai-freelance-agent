@@ -3624,5 +3624,33 @@
     "posted_at": "2026-10-03T20:20:32+00:00",
     "fetched_at": 1791149009,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137463",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
+    "title": "Federal Business Development Director",
+    "company": "Fortanix",
+    "tags": [
+      "exec",
+      "infosec",
+      "teaching",
+      "consulting",
+      "technical",
+      "customer support",
+      "marketing",
+      "speech",
+      "cloud",
+      "bus dev",
+      "sales",
+      "medical"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>About Fortanix </p><p>In today's world, where data spreads across various clouds and devices, traditional security measures aren't enough. Businesses and Government need a dynamic approach to defend against constant cyber threats and ensure agile data security. Fortanix leads ",
+    "posted_at": "2026-10-04T16:00:03+00:00",
+    "fetched_at": 1791239333,
+    "status": "new"
   }
 ]
