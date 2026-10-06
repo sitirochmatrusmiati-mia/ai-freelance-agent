@@ -3652,5 +3652,25 @@
     "posted_at": "2026-10-04T16:00:03+00:00",
     "fetched_at": 1791239333,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137465",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
+    "title": "Platform and Integration Engineer Security Telemetry",
+    "company": "RedMimicry",
+    "tags": [
+      "golang",
+      "infosec",
+      "engineer",
+      "part time"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,...<br/><b",
+    "posted_at": "2026-10-05T13:00:02+00:00",
+    "fetched_at": 1791306428,
+    "status": "new"
   }
 ]
