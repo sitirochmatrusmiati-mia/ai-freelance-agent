@@ -3672,5 +3672,38 @@
     "posted_at": "2026-10-05T13:00:02+00:00",
     "fetched_at": 1791306428,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137474",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
+    "title": "Product Design Lead",
+    "company": "Fuel50",
+    "tags": [
+      "design",
+      "saas",
+      "sys admin",
+      "front end",
+      "technical",
+      "marketing",
+      "dev",
+      "virtual assistant",
+      "javascript",
+      "css",
+      "html",
+      "microsoft",
+      "exec",
+      "senior",
+      "medical",
+      "engineer",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent marketplace experiences and responsible AI to help people and ",
+    "posted_at": "2026-10-09T08:00:04+00:00",
+    "fetched_at": 1791634694,
+    "status": "new"
   }
 ]
