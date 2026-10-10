@@ -3705,5 +3705,34 @@
     "posted_at": "2026-10-09T08:00:04+00:00",
     "fetched_at": 1791634694,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137475",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
+    "title": "Senior React Full stack Developer",
+    "company": "Lemon.io",
+    "tags": [
+      "dev",
+      "engineer",
+      "remote",
+      "python",
+      "aws",
+      "gcp",
+      "javascript",
+      "react",
+      "node",
+      "ruby",
+      "typescript",
+      "full time",
+      "full stack"
+    ],
+    "salary_min": 80000,
+    "salary_max": 200000,
+    "location": "remote",
+    "description_snippet": "<p>Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than <a href=\"https://lemon.io/for-developers/?utm_source=remoteok&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_react_node/python/ruby_o",
+    "posted_at": "2026-10-09T13:09:18+00:00",
+    "fetched_at": 1791654265,
+    "status": "new"
   }
 ]
