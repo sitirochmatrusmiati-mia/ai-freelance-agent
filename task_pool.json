@@ -3832,5 +3832,34 @@
     "posted_at": "2026-10-10T00:00:05+00:00",
     "fetched_at": 1791679615,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137481",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
+    "title": "Manager Clinical Data Management",
+    "company": "EDETEK",
+    "tags": [
+      "exec",
+      "design",
+      "sys admin",
+      "education",
+      "customer support",
+      "dev",
+      "testing",
+      "travel",
+      "junior",
+      "ops",
+      "medical",
+      "recruiter",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>Manager, Clinical Data Management leads clinical data management team to handle project management documentation, preform clinical data management activities and system implementations for EDETEKâs CONFORM eClinical, write design specifications for the system (forms, reports",
+    "posted_at": "2026-10-10T08:00:08+00:00",
+    "fetched_at": 1791726967,
+    "status": "new"
   }
 ]
