@@ -3861,5 +3861,28 @@
     "posted_at": "2026-10-10T08:00:08+00:00",
     "fetched_at": 1791726967,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137488",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
+    "title": "Marketing and Sales Administrator",
+    "company": "Hunt St",
+    "tags": [
+      "customer support",
+      "marketing",
+      "finance",
+      "admin",
+      "exec",
+      "content writing",
+      "sales"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p></p><p>Looking for Philippines-based candidates</p><p>Job Role: \t\t\tMarketing and Sales Administrator</p><p>Compensation range: \t$1,500 AUD - $2,000 AUD / Monthly</p><p>Engagement type:\tIndependent Contractor Agreement</p><p>Work Schedule: \tThis role is expected to align with t",
+    "posted_at": "2026-10-11T08:00:06+00:00",
+    "fetched_at": 1791801279,
+    "status": "new"
   }
 ]
