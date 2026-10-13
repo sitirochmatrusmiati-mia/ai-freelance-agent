@@ -3884,5 +3884,39 @@
     "posted_at": "2026-10-11T08:00:06+00:00",
     "fetched_at": 1791801279,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137498",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
+    "title": "Senior Sales Executive Central Region",
+    "company": "SimSpace Corporation",
+    "tags": [
+      "saas",
+      "embedded",
+      "sys admin",
+      "infosec",
+      "education",
+      "customer support",
+      "testing",
+      "marketing",
+      "finance",
+      "cloud",
+      "exec",
+      "content writing",
+      "senior",
+      "stats",
+      "legal",
+      "sales",
+      "medical",
+      "engineer"
+    ],
+    "salary_min": 145000,
+    "salary_max": 220000,
+    "location": "remote",
+    "description_snippet": "<p style=\"min-height:1.5em\"><strong>SimSpace serves as an AI Proving Ground where organizations can confidently train, test, and outmaneuver adversaries in any environment. </strong>Trusted by allied governments, militaries, enterprises, and research institutions worldwide, SimSp",
+    "posted_at": "2026-10-12T00:00:04+00:00",
+    "fetched_at": 1791858600,
+    "status": "new"
   }
 ]
