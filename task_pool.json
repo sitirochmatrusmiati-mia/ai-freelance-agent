@@ -3918,5 +3918,22 @@
     "posted_at": "2026-10-12T00:00:04+00:00",
     "fetched_at": 1791858600,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137506",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
+    "title": "Technical Customer Support",
+    "company": "QuickMail",
+    "tags": [
+      "customer support"
+    ],
+    "salary_min": 30000,
+    "salary_max": 50000,
+    "location": "remote",
+    "description_snippet": "<p>QuickMail is a cold email and LinkedIn outreach platform for markets you can't afford to burn. Our customers can't easily replace leads that land in spam, which is why deliverability matters more to us than anything else. We have been running since 2014, and we pioneered deliv",
+    "posted_at": "2026-10-12T16:20:10+00:00",
+    "fetched_at": 1791914706,
+    "status": "new"
   }
 ]
