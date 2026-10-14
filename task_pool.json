@@ -3935,5 +3935,37 @@
     "posted_at": "2026-10-12T16:20:10+00:00",
     "fetched_at": 1791914706,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137507",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
+    "title": "Graphic Designer & Video Editor",
+    "company": "BlueTuskr",
+    "tags": [
+      "design",
+      "designer",
+      "customer support",
+      "testing",
+      "marketing",
+      "web dev",
+      "video",
+      "mobile",
+      "photoshop",
+      "stats",
+      "sales",
+      "illustrator",
+      "ecommerce",
+      "shopify",
+      "part time",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "Description<p>BlueTuskr is a full-service e-commerce growth agency built exclusively for e-commerce brands. We combine paid media, owned media, creative, and analytics to help our clients scale profitably. Our team is made up of specialists who are deeply invested in their craft ",
+    "posted_at": "2026-10-13T00:00:06+00:00",
+    "fetched_at": 1791952495,
+    "status": "new"
   }
 ]
