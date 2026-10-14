@@ -3967,5 +3967,31 @@
     "posted_at": "2026-10-13T00:00:06+00:00",
     "fetched_at": 1791952495,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137510",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
+    "title": "Principal Product Manager Strategic Initiatives",
+    "company": "Thyme Care",
+    "tags": [
+      "product manager",
+      "exec",
+      "technical",
+      "customer support",
+      "testing",
+      "senior",
+      "ops",
+      "medical",
+      "engineer",
+      "recruiter"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Remote",
+    "description_snippet": "<p style=\"min-height:1.5em\"><strong>OUR MISSION</strong></p><p style=\"min-height:1.5em\">We exist to create a more connected, compassionate, and confident experience for people with cancer and those who care for them. We make it easier to get answers, access high-quality care quic",
+    "posted_at": "2026-10-13T08:00:11+00:00",
+    "fetched_at": 1791972097,
+    "status": "new"
   }
 ]
