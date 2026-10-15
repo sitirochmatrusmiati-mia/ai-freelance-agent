@@ -4010,5 +4010,28 @@
     "posted_at": "2026-10-14T01:31:49+00:00",
     "fetched_at": 1792037842,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137514",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
+    "title": "Payment Operations Specialist",
+    "company": "Utopia",
+    "tags": [
+      "design",
+      "customer support",
+      "marketing",
+      "accounting",
+      "finance",
+      "ops",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>UtopiaÂ is an ultra-luxury hospitality and lifestyle brand creating a global ecosystem of properties and experiences.</p><p>We develop private villa retreats in beautiful locations around the world, each with high-end service.Â UtopiaÂ also offers a wider ecosystem of leisure ",
+    "posted_at": "2026-10-14T16:00:05+00:00",
+    "fetched_at": 1792090782,
+    "status": "new"
   }
 ]
