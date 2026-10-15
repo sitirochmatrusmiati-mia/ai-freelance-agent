@@ -3993,5 +3993,22 @@
     "posted_at": "2026-10-13T08:00:11+00:00",
     "fetched_at": 1791972097,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137512",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
+    "title": "Customer Support Specialist",
+    "company": "Ultimate Marketing",
+    "tags": [
+      "customer support"
+    ],
+    "salary_min": 50000,
+    "salary_max": 90000,
+    "location": "remote",
+    "description_snippet": "<h1><strong>Join Our Global Customer Engagement Network</strong></h1><p>Company: Ultimate Marketing LLC<br />Location: Worldwide | Remote<br />Employment Type: Independent Contractor (1099 for eligible U.S. contractors)<br />Compensation: Performance-Based | Payments Every 3 Cale",
+    "posted_at": "2026-10-14T01:31:49+00:00",
+    "fetched_at": 1792037842,
+    "status": "new"
   }
 ]
