@@ -4033,5 +4033,69 @@
     "posted_at": "2026-10-14T16:00:05+00:00",
     "fetched_at": 1792090782,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137523",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+    "title": "Sr REACT NATIVE",
+    "company": "Somnio Software",
+    "tags": [
+      "react native",
+      "react",
+      "dev",
+      "python",
+      "javascript",
+      "c",
+      "flutter",
+      "node",
+      "node.js",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p><strong>QuÃ© es Deazy</strong><br />Deazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo asignan a una agencia como Somnio par",
+    "posted_at": "2026-10-15T00:00:19+00:00",
+    "fetched_at": 1792112892,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137522",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522",
+    "title": "Contracts Manager Federal",
+    "company": "Akicita Federal, LLC",
+    "tags": [
+      "exec",
+      "medical",
+      "recruiter"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Remote",
+    "description_snippet": "\\n<p></p><p><br></p><p></p>\\n<div>$100,000 - $120,000 a year</div><small><div>\n<p style=\"margin: 0in 0in 6pt; line-height: 125%; font-size: 11pt; font-family: Calibri, sans-serif;\">Akicita Federal, LLC is a growing 8(a) small business that delivers healthcare, professional, and a",
+    "posted_at": "2026-10-15T00:00:13+00:00",
+    "fetched_at": 1792112892,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137521",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
+    "title": "Federal Account Manager Client Relationships",
+    "company": "Akicita Federal, LLC",
+    "tags": [
+      "exec",
+      "golang",
+      "recruiter"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Remote",
+    "description_snippet": "\\n<p></p><p><br></p><p></p>\\n<div>$100,000 - $120,000 a year</div><small><div>\n<p style=\"margin: 0in 0in 6pt; line-height: 125%; font-size: 11pt; font-family: Calibri, sans-serif;\">Akicita Federal, LLC is a growing 8(a) small business serving federal agencies. We're looking for s",
+    "posted_at": "2026-10-15T00:00:05+00:00",
+    "fetched_at": 1792112892,
+    "status": "new"
   }
 ]
