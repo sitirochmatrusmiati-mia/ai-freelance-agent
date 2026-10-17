@@ -4296,5 +4296,26 @@
     "posted_at": "2026-10-16T16:00:26+00:00",
     "fetched_at": 1792256241,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137537",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+    "title": "Head of Technology",
+    "company": "Sanctuary Computer",
+    "tags": [
+      "dev",
+      "engineer",
+      "senior",
+      "full stack",
+      "front end"
+    ],
+    "salary_min": 140000,
+    "salary_max": 250000,
+    "location": "remote",
+    "description_snippet": "<p>We are hiring a <strong>Head of Technology</strong> for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.</p><p><a href=\"https://garden3d.notion.site/Head-of-Technology-3f9131fea2c7815da5e3ec914835c397",
+    "posted_at": "2026-10-16T17:55:35+00:00",
+    "fetched_at": 1792264426,
+    "status": "new"
   }
 ]
