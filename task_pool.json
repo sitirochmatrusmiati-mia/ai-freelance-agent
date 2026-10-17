@@ -4198,5 +4198,27 @@
     "posted_at": "2026-10-15T16:00:03+00:00",
     "fetched_at": 1792171084,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137529",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+    "title": "Customer Success Associate",
+    "company": "Voltus",
+    "tags": [
+      "customer support",
+      "testing",
+      "exec",
+      "ops",
+      "sales",
+      "engineer"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Remote",
+    "description_snippet": "Voltus represents the potential of us to better manage energy through simple, cost and risk-free demand response programs. Our commercial and industrial customers earn cash by letting us maximize the value of their operational flexibility in energy markets. We hire people who are",
+    "posted_at": "2026-10-16T00:00:43+00:00",
+    "fetched_at": 1792209795,
+    "status": "new"
   }
 ]
