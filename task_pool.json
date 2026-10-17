@@ -4220,5 +4220,81 @@
     "posted_at": "2026-10-16T00:00:43+00:00",
     "fetched_at": 1792209795,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137536",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+    "title": "Director of Product Management and IT Operations",
+    "company": "Self Bill Pro",
+    "tags": [
+      "product manager",
+      "exec",
+      "infosec",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "ops",
+      "digital nomad"
+    ],
+    "salary_min": 130000,
+    "salary_max": 160000,
+    "location": "remote",
+    "description_snippet": "<h4><strong><span style=\"color: #000000\">About Self Bill Pro:</span></strong></h4><p><span style=\"color: #000000\">Self Bill Pro is a rapidly growing startup dedicated to solving one of the most persistent challenges in the employee benefits ecosystem: the complexity of monthly be",
+    "posted_at": "2026-10-16T16:00:39+00:00",
+    "fetched_at": 1792256241,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137535",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
+    "title": "SAP RE FX Consultant",
+    "company": "Yopeso Romania SRL",
+    "tags": [
+      "consulting",
+      "design",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "marketing",
+      "exec",
+      "part time",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p style=\"text-align: start;\"><strong><span style=\"color: #121317\">Yopeso</span></strong><span style=\"color: #121317\"> has been developing a diverse range of software products, from large-scale applications to smaller solutions, for 20 years. With a growing team of over 300 emplo",
+    "posted_at": "2026-10-16T16:00:33+00:00",
+    "fetched_at": 1792256241,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137534",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+    "title": "APAC Python",
+    "company": "Kodland",
+    "tags": [
+      "python",
+      "teaching",
+      "education",
+      "customer support",
+      "dev",
+      "testing",
+      "part time",
+      "non tech",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p><strong>AboutÂ theÂ Company:</strong></p><p><strong>KodlandÂ </strong>isÂ anÂ internationalÂ onlineÂ codingÂ andÂ digitalÂ skillsÂ schoolÂ thatÂ helpsÂ childrenÂ agedÂ 5Â toÂ 17Â takeÂ theirÂ firstÂ stepsÂ intoÂ theÂ worldÂ ofÂ programmingÂ andÂ technology.</p><p style=\"min-he",
+    "posted_at": "2026-10-16T16:00:26+00:00",
+    "fetched_at": 1792256241,
+    "status": "new"
   }
 ]
