@@ -4340,5 +4340,47 @@
     "posted_at": "2026-10-17T01:09:20+00:00",
     "fetched_at": 1792302022,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137542",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+    "title": "Graduate Transport Planner",
+    "company": "Curtins",
+    "tags": [
+      "hr",
+      "education",
+      "consulting",
+      "technical",
+      "customer support",
+      "marketing",
+      "travel",
+      "medical",
+      "engineer"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "&lt;p&gt;&lt;span&gt;At Curtins, we&#39;re an employee-owned engineering consultancy driven by a simple ambition: to create a better built environment for everyone.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;For over 65 years, we&#39;ve delivered pract",
+    "posted_at": "2026-10-17T08:00:50+00:00",
+    "fetched_at": 1792320563,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137539",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
+    "title": "Commercial Account Manager LATAM",
+    "company": "Apryse",
+    "tags": [
+      "exec"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Remote",
+    "description_snippet": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply<br/><br/>Please mention the word **LEVERAGE** and tag RNTIuMTUxLjE5OC4yNDI= when applying to sho",
+    "posted_at": "2026-10-17T08:00:25+00:00",
+    "fetched_at": 1792320563,
+    "status": "new"
   }
 ]
