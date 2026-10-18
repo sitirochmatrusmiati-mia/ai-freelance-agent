@@ -4317,5 +4317,28 @@
     "posted_at": "2026-10-16T17:55:35+00:00",
     "fetched_at": 1792264426,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137538",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+    "title": "Software Engineer AI Coding Tasks",
+    "company": "Askable",
+    "tags": [
+      "dev",
+      "python",
+      "javascript",
+      "typescript",
+      "golang",
+      "java",
+      "c plus plus"
+    ],
+    "salary_min": 10000,
+    "salary_max": 10000,
+    "location": "remote",
+    "description_snippet": "<p>We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.</p><p>You turn a real change from a repository you know into a task that today's best AI coding models struggl",
+    "posted_at": "2026-10-17T01:09:20+00:00",
+    "fetched_at": 1792302022,
+    "status": "new"
   }
 ]
