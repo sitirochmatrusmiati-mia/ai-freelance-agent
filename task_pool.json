@@ -4382,5 +4382,50 @@
     "posted_at": "2026-10-17T08:00:25+00:00",
     "fetched_at": 1792320563,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137545",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+    "title": "Senior Software Engineer",
+    "company": "Sothebyâs",
+    "tags": [
+      "golang",
+      "dev",
+      "senior",
+      "sales",
+      "engineer",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special.",
+    "posted_at": "2026-10-18T19:00:02+00:00",
+    "fetched_at": 1792443504,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137544",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+    "title": "Senior Backend Engineer",
+    "company": "Rain",
+    "tags": [
+      "golang",
+      "finance",
+      "mobile",
+      "senior",
+      "medical",
+      "engineer",
+      "backend"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta.",
+    "posted_at": "2026-10-18T18:00:01+00:00",
+    "fetched_at": 1792443504,
+    "status": "new"
   }
 ]
