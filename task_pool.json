@@ -4427,5 +4427,31 @@
     "posted_at": "2026-10-18T18:00:01+00:00",
     "fetched_at": 1792443504,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137547",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
+    "title": "Customer Support Consultant hospitality",
+    "company": "SupportYourApp",
+    "tags": [
+      "consulting",
+      "customer support",
+      "saas",
+      "infosec",
+      "technical",
+      "dev",
+      "travel",
+      "exec",
+      "medical",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>Who are we?</p><p>SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, support",
+    "posted_at": "2026-10-19T16:00:04+00:00",
+    "fetched_at": 1792514696,
+    "status": "new"
   }
 ]
