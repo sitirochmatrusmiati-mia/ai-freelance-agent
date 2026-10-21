@@ -4453,5 +4453,42 @@
     "posted_at": "2026-10-19T16:00:04+00:00",
     "fetched_at": 1792514696,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137548",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
+    "title": "Risk Analyst",
+    "company": "Pavago",
+    "tags": [
+      "analyst",
+      "saas",
+      "sys admin",
+      "infosec",
+      "python",
+      "technical",
+      "recruiter",
+      "customer support",
+      "testing",
+      "marketing",
+      "exec",
+      "finance",
+      "video",
+      "microsoft",
+      "senior",
+      "ops",
+      "excel",
+      "stats",
+      "legal",
+      "medical",
+      "full time"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "Risk Analyst / Risk Manager â Remote<p>Enterprise Risk | Compliance | Governance | Financial &amp; Operational Risk</p><p>Position Type: Full-Time, Remote<br /> Working Hours: U.S. Client Business Hours (with flexibility for reporting cycles, audits, and incident response)</p><",
+    "posted_at": "2026-10-20T08:00:05+00:00",
+    "fetched_at": 1792576734,
+    "status": "new"
   }
 ]
