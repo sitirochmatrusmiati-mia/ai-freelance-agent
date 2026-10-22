@@ -4517,5 +4517,26 @@
     "posted_at": "2026-10-21T00:00:06+00:00",
     "fetched_at": 1792643333,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137551",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+    "title": "Senior Backend Engineer",
+    "company": "DuckDuckGo",
+    "tags": [
+      "backend",
+      "perl",
+      "golang",
+      "javascript",
+      "node"
+    ],
+    "salary_min": 190000,
+    "salary_max": 190000,
+    "location": "remote",
+    "description_snippet": "<h1><strong>Who We Are </strong></h1><p>Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and milli",
+    "posted_at": "2026-10-21T14:29:21+00:00",
+    "fetched_at": 1792681650,
+    "status": "new"
   }
 ]
