@@ -4490,5 +4490,32 @@
     "posted_at": "2026-10-20T08:00:05+00:00",
     "fetched_at": 1792576734,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137550",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
+    "title": "Clinical Data Manager",
+    "company": "Penumbra",
+    "tags": [
+      "exec",
+      "sys admin",
+      "infosec",
+      "education",
+      "technical",
+      "customer support",
+      "travel",
+      "excel",
+      "sales",
+      "biotech",
+      "medical"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Your Remote US Home Office",
+    "description_snippet": "<p>\n</p><p><strong>General Summary</strong><br>The temporary Clinical Data Manager acts as a lead data manager for one or more projects, applies data management experience to clinical trials, and utilizes functional knowledge of the logistics of clinical trials to ensure the qual",
+    "posted_at": "2026-10-21T00:00:06+00:00",
+    "fetched_at": 1792643333,
+    "status": "new"
   }
 ]
