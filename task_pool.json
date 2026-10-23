@@ -4621,5 +4621,37 @@
     "posted_at": "2026-10-21T23:33:07+00:00",
     "fetched_at": 1792729588,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137556",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556",
+    "title": "Senior Finance Manager Management Accountant",
+    "company": "D2B",
+    "tags": [
+      "exec",
+      "accounting",
+      "saas",
+      "technical",
+      "customer support",
+      "dev",
+      "marketing",
+      "controller",
+      "payroll",
+      "finance",
+      "education",
+      "php",
+      "senior",
+      "ops",
+      "excel",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>Position\t\t\t\t: Senior Finance Manager / Management AccountantÂ </p><p>Salary\t\t\t\t: PHP 90,000 - PHP 110,000 /month</p><p>Working Hours &amp; Conditions: Observing AU business hours</p><p>Holidays\t\t\t\t: Observing AU holidays</p><p></p><p>ROLE OVERVIEW:</p><p>Our client is an end-t",
+    "posted_at": "2026-10-22T08:00:04+00:00",
+    "fetched_at": 1792749226,
+    "status": "new"
   }
 ]
