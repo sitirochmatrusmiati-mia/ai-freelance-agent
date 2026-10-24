@@ -4685,5 +4685,38 @@
     "posted_at": "2026-10-22T12:58:28+00:00",
     "fetched_at": 1792767121,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137560",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
+    "title": "Accounting and Implementation Manager",
+    "company": "Aprio",
+    "tags": [
+      "exec",
+      "accounting",
+      "design",
+      "sys admin",
+      "education",
+      "consulting",
+      "customer support",
+      "testing",
+      "marketing",
+      "payroll",
+      "finance",
+      "ops",
+      "stats",
+      "sales",
+      "golang",
+      "full time",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p><span data-teams=\"true\">Work with a Top 20 CPA and advisory firm that Accounts for Anything. &nbsp;Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe.</span> &nbsp;By bringing",
+    "posted_at": "2026-10-23T08:00:05+00:00",
+    "fetched_at": 1792833800,
+    "status": "new"
   }
 ]
