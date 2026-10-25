@@ -4848,5 +4848,29 @@
     "posted_at": "2026-10-24T00:00:02+00:00",
     "fetched_at": 1792902015,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137569",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
+    "title": "Field Phlebotomy Supervisor Northern California",
+    "company": "Getlabs",
+    "tags": [
+      "supervisor",
+      "testing",
+      "marketing",
+      "exec",
+      "mobile",
+      "ops",
+      "medical",
+      "full time"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Remote",
+    "description_snippet": "<p><a href=\"https://getlabs.com/partners\"><strong>Getlabs</strong></a><strong> is the leading platform for at-home diagnostics.</strong></p>\n<p>&nbsp;</p>\n<p>Healthcare organizations use Getlabs to send mobile phlebotomists to patientsâ homes and collect labs, vitals, and advan",
+    "posted_at": "2026-10-24T16:00:04+00:00",
+    "fetched_at": 1792952343,
+    "status": "new"
   }
 ]
