@@ -4872,5 +4872,27 @@
     "posted_at": "2026-10-24T16:00:04+00:00",
     "fetched_at": 1792952343,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137571",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+    "title": "Senior Software Engineer",
+    "company": "Klardaten",
+    "tags": [
+      "dev",
+      "senior",
+      "javascript",
+      "typescript",
+      "full stack",
+      "api"
+    ],
+    "salary_min": 80000,
+    "salary_max": 100000,
+    "location": "remote",
+    "description_snippet": "<p>Klardaten connects DATEV with other software and AI applications. Weâre hiring 1â2 senior engineers to own product development, DATEV integrations and automation.</p><p><strong>Based in the EU Â· Remote or Berlin Â· Full time Â· Permanent or contract Â· Start as soon as po",
+    "posted_at": "2026-10-25T12:34:21+00:00",
+    "fetched_at": 1793018770,
+    "status": "new"
   }
 ]
