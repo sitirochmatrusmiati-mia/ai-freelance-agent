@@ -4894,5 +4894,57 @@
     "posted_at": "2026-10-25T12:34:21+00:00",
     "fetched_at": 1793018770,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137573",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573",
+    "title": "Account Executive",
+    "company": "Huzzle",
+    "tags": [
+      "saas",
+      "dev",
+      "video",
+      "finance",
+      "exec",
+      "senior",
+      "marketing",
+      "sales",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "About Huzzle<p>At Huzzle, we connect exceptional talent with exciting opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients range from startups and digital agencies to tech platforms in industries such as SaaS, MarTech, FinTech, and EdTe",
+    "posted_at": "2026-10-26T08:00:12+00:00",
+    "fetched_at": 1793096416,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137572",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+    "title": "Senior Software Engineer LATAM",
+    "company": "Wagmo",
+    "tags": [
+      "dev",
+      "design",
+      "react",
+      "sys admin",
+      "python",
+      "django",
+      "typescript",
+      "senior",
+      "medical",
+      "engineer",
+      "digital nomad"
+    ],
+    "salary_min": 100000,
+    "salary_max": 140000,
+    "location": "remote",
+    "description_snippet": "<p style=\"min-height:1.5em\"><strong>Senior Software Engineer</strong></p><p style=\"min-height:1.5em\">Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">Â </div><p style=",
+    "posted_at": "2026-10-26T08:00:06+00:00",
+    "fetched_at": 1793096416,
+    "status": "new"
   }
 ]
