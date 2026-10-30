@@ -4946,5 +4946,23 @@
     "posted_at": "2026-10-26T08:00:06+00:00",
     "fetched_at": 1793096416,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137597",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
+    "title": "Front End Developer",
+    "company": "Edconic",
+    "tags": [
+      "other",
+      "front end"
+    ],
+    "salary_min": 80000,
+    "salary_max": 100000,
+    "location": "remote",
+    "description_snippet": "<div><p><strong>Job Title:</strong> Front-End Developer<br /><strong>Location:</strong> Fully Remote (US)<br /><strong>Department:</strong> Global Enrollment Marketing and Sales<br /><strong>Reports to:</strong> Director of Web Development<br /><strong>Classification:</strong> Re",
+    "posted_at": "2026-10-28T21:53:15+00:00",
+    "fetched_at": 1793321093,
+    "status": "new"
   }
 ]
