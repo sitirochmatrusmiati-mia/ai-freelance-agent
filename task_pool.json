@@ -4964,5 +4964,55 @@
     "posted_at": "2026-10-28T21:53:15+00:00",
     "fetched_at": 1793321093,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137603",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-competent-wind-turbine-technicians-eu-uk-apac-2027-gev-wind-power-1137603",
+    "title": "Competent Wind Turbine Technicians EU UK APAC 2027",
+    "company": "GEV Wind Power",
+    "tags": [
+      "education",
+      "technical",
+      "customer support",
+      "testing",
+      "exec",
+      "ops",
+      "medical"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p style=\"text-align: start;\">GEV Wind Power is seeking experienced Competent Wind Turbine Technicians to join our offshore operations team. This is an exciting opportunity to work on Vestas offshore wind turbines, delivering high-quality maintenance and troubleshooting support w",
+    "posted_at": "2026-10-30T00:00:17+00:00",
+    "fetched_at": 1793423561,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137602",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
+    "title": "Country Manager Canada",
+    "company": "Polaroid",
+    "tags": [
+      "exec",
+      "education",
+      "recruiter",
+      "customer support",
+      "marketing",
+      "finance",
+      "math",
+      "senior",
+      "ops",
+      "legal",
+      "sales"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p style=\"min-height:1.5em\">Hello. Weâre Polaroid. An iconic brand, built by passionate people </p><p style=\"min-height:1.5em\">Polaroid was founded in 1937 by one of the 20th centuryâs most influential innovators, Edwin Land, whose philosophy was: <em>âDonât undertake a p",
+    "posted_at": "2026-10-30T00:00:10+00:00",
+    "fetched_at": 1793423561,
+    "status": "new"
   }
 ]
