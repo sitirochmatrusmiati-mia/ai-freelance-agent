@@ -5014,5 +5014,40 @@
     "posted_at": "2026-10-30T00:00:10+00:00",
     "fetched_at": 1793423561,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137606",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+    "title": "AWS Cloud Solutions Architect",
+    "company": "Cloudary SAS",
+    "tags": [
+      "architecture",
+      "design",
+      "ansible",
+      "infosec",
+      "docker",
+      "technical",
+      "dev",
+      "exec",
+      "serverless",
+      "cloud",
+      "postgres",
+      "sql",
+      "api",
+      "senior",
+      "ops",
+      "sales",
+      "golang",
+      "engineer",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>As a <strong>Senior AWS Cloud Solutions Architect</strong>, you will be the technical lead on our most complex engagements, from assessment and mobilization to large-scale migration and modernization. You will report to an Engineering Manager based in Europe and lead distribut",
+    "posted_at": "2026-10-30T16:00:06+00:00",
+    "fetched_at": 1793468191,
+    "status": "new"
   }
 ]
