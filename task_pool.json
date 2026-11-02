@@ -5049,5 +5049,33 @@
     "posted_at": "2026-10-30T16:00:06+00:00",
     "fetched_at": 1793468191,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137609",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+    "title": "Partner Operations Manager",
+    "company": "Mecka",
+    "tags": [
+      "exec",
+      "design",
+      "education",
+      "customer support",
+      "marketing",
+      "quality assurance",
+      "finance",
+      "robotics",
+      "ops",
+      "recruiter",
+      "engineer",
+      "digital nomad"
+    ],
+    "salary_min": 80000,
+    "salary_max": 100000,
+    "location": "remote",
+    "description_snippet": "<h3>About Mecka AI</h3><p style=\"min-height:1.5em\">Mecka AI is building the data infrastructure layer for robotics and embodied AI.<br />We design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics compa",
+    "posted_at": "2026-11-01T00:00:08+00:00",
+    "fetched_at": 1793598016,
+    "status": "new"
   }
 ]
