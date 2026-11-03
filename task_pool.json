@@ -5077,5 +5077,26 @@
     "posted_at": "2026-11-01T00:00:08+00:00",
     "fetched_at": 1793598016,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137613",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613",
+    "title": "Team Lead Account Executive",
+    "company": "Capmo",
+    "tags": [
+      "saas",
+      "exec",
+      "junior",
+      "marketing",
+      "sales"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<h1>Deine Rolle</h1><p>Unser Account Executive Team ist der Wachstumsmotor von Capmo â und du sorgst dafÃ¼r, dass er noch schneller und effizienter lÃ¤uft. Als Team Lead Account Executive (m/w/*) fÃ¼hrst du unser bestehendes AE-Team im Daily Business, Ã¼bersetzt unsere Sales-St",
+    "posted_at": "2026-11-02T00:00:07+00:00",
+    "fetched_at": 1793686873,
+    "status": "new"
   }
 ]
