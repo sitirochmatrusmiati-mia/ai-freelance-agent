@@ -5124,5 +5124,40 @@
     "posted_at": "2026-11-02T10:43:35+00:00",
     "fetched_at": 1793717859,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137621",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621",
+    "title": "Client Accounting Division Manager",
+    "company": "Burkland Associates",
+    "tags": [
+      "exec",
+      "accounting",
+      "amazon",
+      "hr",
+      "sys admin",
+      "technical",
+      "customer support",
+      "dev",
+      "marketing",
+      "finance",
+      "video",
+      "content writing",
+      "ops",
+      "medical",
+      "ecommerce",
+      "shopify",
+      "full time",
+      "part time",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<h1><strong>About Us</strong></h1><p style=\"min-height:1.5em\">Burkland's core purpose is to Accelerate Dreams. So often, turning dreams into reality helps change the world. We thrive at the forefront of this transformation. Startups desire our professionals as they are the best i",
+    "posted_at": "2026-11-03T00:00:10+00:00",
+    "fetched_at": 1793754641,
+    "status": "new"
   }
 ]
