@@ -5159,5 +5159,37 @@
     "posted_at": "2026-11-03T00:00:10+00:00",
     "fetched_at": 1793754641,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137624",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+    "title": "Senior Property Manager ENG",
+    "company": "StaffRight",
+    "tags": [
+      "exec",
+      "hr",
+      "technical",
+      "customer support",
+      "dev",
+      "travel",
+      "finance",
+      "php",
+      "microsoft",
+      "senior",
+      "junior",
+      "ops",
+      "marketing",
+      "medical",
+      "full time",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>Join a team that values you. At StaffRight, we connect talented professionals with global opportunitiesâand weâre growing fast! With competitive pay, health insurance, paid time off (including national holidays), and a supportive HR team always in your corner, youâll lov",
+    "posted_at": "2026-11-03T08:00:12+00:00",
+    "fetched_at": 1793782494,
+    "status": "new"
   }
 ]
