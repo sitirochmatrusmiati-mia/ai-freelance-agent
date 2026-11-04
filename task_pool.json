@@ -5191,5 +5191,56 @@
     "posted_at": "2026-11-03T08:00:12+00:00",
     "fetched_at": 1793782494,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137674",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
+    "title": "Sales Operations Analyst",
+    "company": "Calabrio",
+    "tags": [
+      "analyst",
+      "saas",
+      "salesforce",
+      "education",
+      "customer support",
+      "dev",
+      "marketing",
+      "accounting",
+      "finance",
+      "exec",
+      "ops",
+      "excel",
+      "stats",
+      "sales",
+      "digital nomad"
+    ],
+    "salary_min": 75000,
+    "salary_max": 75000,
+    "location": "remote",
+    "description_snippet": "<p>Location: US- Remote. Must be in EST or CT time zone only. </p><p></p><p>VerintÂ is an innovative, fast-paced, growing software company that delivers integrated workforce optimization software for todayâs multi-channel contact centers. We are in an exciting growing phase and",
+    "posted_at": "2026-11-03T16:00:05+00:00",
+    "fetched_at": 1793811631,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137673",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
+    "title": "Tech lead",
+    "company": "Ringbook Limited",
+    "tags": [
+      "dev",
+      "exec",
+      "accounting",
+      "saas"
+    ],
+    "salary_min": 40000,
+    "salary_max": 50000,
+    "location": "remote",
+    "description_snippet": "<p dir=\"ltr\">What Youâll Do</p><p dir=\"ltr\">ãDesign the architecture of the application and make key technical decisions.</p><p dir=\"ltr\">ãBuild and maintain scalable features across the Ringbook web application.</p><p dir=\"ltr\">ãIntegrate AI capabilities throughout the p",
+    "posted_at": "2026-11-03T14:53:55+00:00",
+    "fetched_at": 1793811631,
+    "status": "new"
   }
 ]
