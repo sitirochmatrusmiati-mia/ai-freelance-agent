@@ -5242,5 +5242,24 @@
     "posted_at": "2026-11-03T14:53:55+00:00",
     "fetched_at": 1793811631,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137685",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
+    "title": "Software Engineer",
+    "company": "Claims",
+    "tags": [
+      "dev",
+      "ai",
+      "blockchain"
+    ],
+    "salary_min": 10000,
+    "salary_max": 30000,
+    "location": "remote",
+    "description_snippet": "<p><br /></p><h2>ð Build the data layer AI needs to do science</h2><p>Application deadline: 16 Nov 2026 23:59 CET</p><h2>About Claims</h2><p>AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing r",
+    "posted_at": "2026-11-04T15:09:09+00:00",
+    "fetched_at": 1793891953,
+    "status": "new"
   }
 ]
