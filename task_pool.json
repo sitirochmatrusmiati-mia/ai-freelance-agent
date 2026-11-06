@@ -5261,5 +5261,24 @@
     "posted_at": "2026-11-04T15:09:09+00:00",
     "fetched_at": 1793891953,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137686",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686",
+    "title": "AI Content Reviewer Video Annotation",
+    "company": "iMerit",
+    "tags": [
+      "content writing",
+      "ai",
+      "other"
+    ],
+    "salary_min": 80000,
+    "salary_max": 90000,
+    "location": "remote",
+    "description_snippet": "<p dir=\"ltr\">100% Remote | Independent Contractor | 35 - 40 USD/hour</p><h3 dir=\"ltr\">Help shape the future of AI.</h3><p dir=\"ltr\">Artificial Intelligence is evolving rapidly, and high-quality data plays a key role in making it smarter. We're looking for detail-oriented individu",
+    "posted_at": "2026-11-04T22:25:19+00:00",
+    "fetched_at": 1793931031,
+    "status": "new"
   }
 ]
