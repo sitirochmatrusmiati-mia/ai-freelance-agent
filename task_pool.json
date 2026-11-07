@@ -5342,5 +5342,28 @@
     "posted_at": "2026-11-05T12:45:45+00:00",
     "fetched_at": 1793987554,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137695",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
+    "title": "Registered Nurse",
+    "company": "Caringhand Home Health Solutions, Inc.",
+    "tags": [
+      "education",
+      "supervisor",
+      "customer support",
+      "travel",
+      "exec",
+      "medical",
+      "full time"
+    ],
+    "salary_min": 110,
+    "salary_max": 130,
+    "location": "remote",
+    "description_snippet": "<p>Company: Caringhand Home Health Solutions, Inc.<br />Position Type: Per Diem<br />Work Arrangement: Field-Based â Patient Home Visits<br />Compensation: $110â$130 per visit</p><p></p><p>Caringhand Home Health Solutions, Inc. is committed to providing professional nursing a",
+    "posted_at": "2026-11-06T08:00:05+00:00",
+    "fetched_at": 1794045134,
+    "status": "new"
   }
 ]
