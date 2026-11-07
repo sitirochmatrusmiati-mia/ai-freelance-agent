@@ -5365,5 +5365,29 @@
     "posted_at": "2026-11-06T08:00:05+00:00",
     "fetched_at": 1794045134,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137700",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
+    "title": "Junior Market Analyst",
+    "company": "MEYA HOLDINGS",
+    "tags": [
+      "other",
+      "crypto",
+      "finance",
+      "remote work",
+      "remote",
+      "junior",
+      "part time",
+      "analyst"
+    ],
+    "salary_min": 60000,
+    "salary_max": 80000,
+    "location": "remote",
+    "description_snippet": "<div class=\"vacancy-intro reveal reveal-d2\"><p>MEYA HOLDINGS LTD is an international company specializing in digital assets, cryptocurrency markets, and financial research. We focus on developing data-driven trading approaches and optimizing market operations. Our remote team bri",
+    "posted_at": "2026-11-06T13:47:40+00:00",
+    "fetched_at": 1794068133,
+    "status": "new"
   }
 ]
