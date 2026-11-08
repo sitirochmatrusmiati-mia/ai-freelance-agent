@@ -5389,5 +5389,42 @@
     "posted_at": "2026-11-06T13:47:40+00:00",
     "fetched_at": 1794068133,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137701",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+    "title": "AI Developer",
+    "company": "Salvo Software",
+    "tags": [
+      "dev",
+      "grafana",
+      "infosec",
+      "python",
+      "docker",
+      "technical",
+      "customer support",
+      "devops",
+      "c",
+      "c plus plus",
+      "cloud",
+      "git",
+      "admin",
+      "microsoft",
+      "ops",
+      "golang",
+      "engineer",
+      "apache",
+      "linux",
+      "backend",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technica",
+    "posted_at": "2026-11-07T00:00:02+00:00",
+    "fetched_at": 1794097300,
+    "status": "new"
   }
 ]
