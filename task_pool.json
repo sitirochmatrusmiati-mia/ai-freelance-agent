@@ -5426,5 +5426,33 @@
     "posted_at": "2026-11-07T00:00:02+00:00",
     "fetched_at": 1794097300,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137703",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
+    "title": "Account Executive Enterprise",
+    "company": "Harvey",
+    "tags": [
+      "saas",
+      "technical",
+      "customer support",
+      "dev",
+      "marketing",
+      "finance",
+      "exec",
+      "legal",
+      "sales",
+      "engineer",
+      "recruiter",
+      "digital nomad"
+    ],
+    "salary_min": 380000,
+    "salary_max": 420000,
+    "location": "remote",
+    "description_snippet": "<h1><strong>Why Harvey</strong></h1><p style=\"min-height:1.5em\">At Harvey, weâre transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, weâre reshaping how critical knowledge work ge",
+    "posted_at": "2026-11-08T00:00:03+00:00",
+    "fetched_at": 1794203600,
+    "status": "new"
   }
 ]
