@@ -5507,5 +5507,58 @@
     "posted_at": "2026-11-09T08:00:05+00:00",
     "fetched_at": 1794298361,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137711",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
+    "title": "HIL Support Specialist",
+    "company": "Extend Your Team",
+    "tags": [
+      "design",
+      "c sharp",
+      "amazon",
+      "customer support",
+      "dev",
+      "finance",
+      "c",
+      "c plus plus",
+      "math",
+      "microsoft",
+      "exec",
+      "ops",
+      "medical",
+      "backend",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<h1><strong>WHY JOIN EYT?</strong></h1><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">Â </div><p style=\"min-height:1.5em\">Monthly Rate:<strong> Php80,000 - Php100,000</strong></p><p style=\"min-height:1.5em\"><strong><u>+$1,000</u></strong>  Sign-On Bonus â Start ",
+    "posted_at": "2026-11-09T16:00:20+00:00",
+    "fetched_at": 1794329781,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137709",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709",
+    "title": "Telehealth Endocrinologist Evenings Fridays and or Weekends",
+    "company": "Allara",
+    "tags": [
+      "education",
+      "technical",
+      "customer support",
+      "video",
+      "medical",
+      "internship"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.allarahealth.com\"><strong>Allara</strong></a> is a comprehensive womenâs health provider that specializes in expert, longitudinal care that supports women through every life stag",
+    "posted_at": "2026-11-09T16:00:06+00:00",
+    "fetched_at": 1794329781,
+    "status": "new"
   }
 ]
