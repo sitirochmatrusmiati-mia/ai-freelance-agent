@@ -5454,5 +5454,58 @@
     "posted_at": "2026-11-08T00:00:03+00:00",
     "fetched_at": 1794203600,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137708",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-pebl-1137708",
+    "title": "Recruiting Coordinator",
+    "company": "Pebl",
+    "tags": [
+      "coordinator",
+      "customer support",
+      "marketing",
+      "exec",
+      "golang",
+      "medical",
+      "recruiter"
+    ],
+    "salary_min": 114000000,
+    "salary_max": 140000000,
+    "location": "remote",
+    "description_snippet": "<p style=\"min-height:1.5em\"><strong>Purpose in Every Position</strong></p><p style=\"min-height:1.5em\">Pebl puts a world of talent at your fingertips. With our AI-powered Global Work Platformâ¢, companies can hire, pay, and manage employees in 185+ countriesâremoving risk, red ",
+    "posted_at": "2026-11-09T08:00:12+00:00",
+    "fetched_at": 1794298361,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137707",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
+    "title": "Web3 Business Development",
+    "company": "CertiK",
+    "tags": [
+      "crypto",
+      "web3",
+      "blockchain",
+      "defi",
+      "infosec",
+      "consulting",
+      "technical",
+      "customer support",
+      "testing",
+      "html",
+      "senior",
+      "bus dev",
+      "sales",
+      "engineer"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p>\n</p><div data-page-id=\"AF0BdmbDDokdthxwHmolmBYpgFc\" data-lark-html-role=\"root\" data-docx-has-block-data=\"false\">\n<p><strong>About the Company</strong></p>\n<p>Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security compan",
+    "posted_at": "2026-11-09T08:00:05+00:00",
+    "fetched_at": 1794298361,
+    "status": "new"
   }
 ]
