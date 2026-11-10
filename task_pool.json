@@ -5560,5 +5560,27 @@
     "posted_at": "2026-11-09T16:00:06+00:00",
     "fetched_at": 1794329781,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137713",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
+    "title": "Senior Software Engineer â Kubernetes Control Plane",
+    "company": "Buoyant",
+    "tags": [
+      "golang",
+      "dev",
+      "senior",
+      "golang",
+      "engineer",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "San Francisco, United States - Senior Software Engineer â Kubernetes Control Plane (Go / Golang)REMOTE: United States, Canada, or South America ONLYExperience: 7+ yearsIMPORTANT â PLEASE READ BEFORE APPLYINGBuoyant is seeking experienced software engineers who have personally",
+    "posted_at": "2026-11-09T22:00:02+00:00",
+    "fetched_at": 1794348967,
+    "status": "new"
   }
 ]
