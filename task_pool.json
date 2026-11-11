@@ -5582,5 +5582,39 @@
     "posted_at": "2026-11-09T22:00:02+00:00",
     "fetched_at": 1794348967,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137714",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+    "title": "Data Engineer",
+    "company": "Addepto",
+    "tags": [
+      "design",
+      "saas",
+      "salesforce",
+      "python",
+      "education",
+      "consulting",
+      "customer support",
+      "testing",
+      "marketing",
+      "dev",
+      "finance",
+      "cloud",
+      "git",
+      "stats",
+      "sys admin",
+      "engineer",
+      "apache",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p><span>Addepto is a leading AI consulting (</span><u><a href=\"https://addepto.com/ai-consulting/\"><span>https://addepto.com/ai-consulting/</span></a></u><span>) and data engineering (</span><u><a href=\"https://addepto.com/data-engineering-services/\"><span>https://addepto.com/da",
+    "posted_at": "2026-11-10T16:00:04+00:00",
+    "fetched_at": 1794421948,
+    "status": "new"
   }
 ]
