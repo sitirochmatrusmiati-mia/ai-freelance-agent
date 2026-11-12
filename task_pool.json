@@ -5638,5 +5638,33 @@
     "posted_at": "2026-11-11T00:00:15+00:00",
     "fetched_at": 1794446764,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137719",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-patient-care-specialist-i-boston-scientific-1137719",
+    "title": "Patient Care Specialist I",
+    "company": "Boston Scientific",
+    "tags": [
+      "design",
+      "sys admin",
+      "education",
+      "technical",
+      "customer support",
+      "testing",
+      "telecommuting",
+      "exec",
+      "sales",
+      "medical",
+      "recruiter",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "Additional Location(s): N/A\n\nDiversity - Innovation - Caring - Global Collaboration - Winning Spirit - High Performance\n\nAt Boston Scientific, weâll give you the opportunity to harness all thatâs within you by working in teams of diverse and high-performing employees, tacklin",
+    "posted_at": "2026-11-11T08:00:08+00:00",
+    "fetched_at": 1794476338,
+    "status": "new"
   }
 ]
