@@ -5666,5 +5666,35 @@
     "posted_at": "2026-11-11T08:00:08+00:00",
     "fetched_at": 1794476338,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137792",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
+    "title": "Research Engineer Privacy and Anonymization",
+    "company": "Pragmatike",
+    "tags": [
+      "design",
+      "embedded",
+      "infosec",
+      "python",
+      "education",
+      "technical",
+      "finance",
+      "content writing",
+      "ops",
+      "medical",
+      "recruiter",
+      "engineer",
+      "full time",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<p style=\"min-height:1.5em\"><strong>Location:</strong> San Francisco or Singapore (on-site), or remote (Singapore or US Pacific time zones)<br /><strong>Start Date:</strong> ASAP<br /><strong>Languages:</strong> English<br /><strong>Team:</strong> Engineering</p><p style=\"min-hei",
+    "posted_at": "2026-11-12T16:00:38+00:00",
+    "fetched_at": 1794585850,
+    "status": "new"
   }
 ]
