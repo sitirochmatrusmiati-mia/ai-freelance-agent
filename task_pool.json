@@ -5696,5 +5696,36 @@
     "posted_at": "2026-11-12T16:00:38+00:00",
     "fetched_at": 1794585850,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137793",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+    "title": "Software Engineer AI Tooling",
+    "company": "Supabase",
+    "tags": [
+      "dev",
+      "design",
+      "front end",
+      "customer support",
+      "testing",
+      "marketing",
+      "virtual assistant",
+      "javascript",
+      "education",
+      "typescript",
+      "sys admin",
+      "medical",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<h2><strong>About Supabase</strong></h2><p style=\"min-height:1.5em\">Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All servic",
+    "posted_at": "2026-11-13T00:00:15+00:00",
+    "fetched_at": 1794625195,
+    "status": "new"
   }
 ]
