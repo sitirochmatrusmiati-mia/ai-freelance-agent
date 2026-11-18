@@ -5727,5 +5727,79 @@
     "posted_at": "2026-11-13T00:00:15+00:00",
     "fetched_at": 1794625195,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137799",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799",
+    "title": "Expert Talent Pool Physical AI",
+    "company": "Clera",
+    "tags": [
+      "design",
+      "education",
+      "testing",
+      "travel",
+      "robotics",
+      "exec",
+      "ops",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Lead physical AI data capture programs that help robots learn from human movement and manipulation. You will set up capture systems, guide demonstrations, and uphold data quality across projects ranging from one week to several m",
+    "posted_at": "2026-11-17T00:00:29+00:00",
+    "fetched_at": 1794974797,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137798",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-feedback-and-alignment-clera-1137798",
+    "title": "Expert Talent Pool Feedback and Alignment",
+    "company": "Clera",
+    "tags": [
+      "quality assurance",
+      "finance",
+      "math",
+      "exec",
+      "content writing",
+      "senior"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<h3>About the Role</h3><p style=\"min-height:1.5em\">Join a remote expert network as a senior rater and reviewer, evaluating complex AI model outputs and helping calibrate other graders. Your work supports the development of high-quality, trustworthy AI systems across specialized f",
+    "posted_at": "2026-11-17T00:00:23+00:00",
+    "fetched_at": 1794974797,
+    "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137797",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
+    "title": "Engineering Manager Network Engineering",
+    "company": "PatientPoint",
+    "tags": [
+      "exec",
+      "design",
+      "infosec",
+      "technical",
+      "dev",
+      "travel",
+      "devops",
+      "cloud",
+      "ops",
+      "medical",
+      "engineer",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Remote",
+    "description_snippet": "Join PatientPoint to be part of a dynamic team creating change in and around the doctorâs office. As a leading digital health company, we innovate to positively impact patient behaviors. Our purpose-driven approach offers an inspirational career opportunity where you can contri",
+    "posted_at": "2026-11-17T00:00:17+00:00",
+    "fetched_at": 1794974797,
+    "status": "new"
   }
 ]
