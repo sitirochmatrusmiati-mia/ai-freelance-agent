@@ -6162,5 +6162,33 @@
     "posted_at": "2026-11-20T00:00:35+00:00",
     "fetched_at": 1795223954,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1137913",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-account-director-princeton10-1137913",
+    "title": "Account Director",
+    "company": "Princeton10",
+    "tags": [
+      "exec",
+      "design",
+      "marketing",
+      "web dev",
+      "travel",
+      "finance",
+      "senior",
+      "ops",
+      "legal",
+      "golang",
+      "medical",
+      "digital nomad"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "Remote, EST United States",
+    "description_snippet": "<p>\n</p><p>Weâre looking for an experienced <strong>Account Director </strong>to lead and grow client relationships and deliver the P10 experience across our pharmaceutical brands. Youâll be a trusted strategic partner to clients, owning the health and growth of your accounts",
+    "posted_at": "2026-11-20T16:00:11+00:00",
+    "fetched_at": 1795281447,
+    "status": "new"
   }
 ]
