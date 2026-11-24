@@ -6190,5 +6190,30 @@
     "posted_at": "2026-11-20T16:00:11+00:00",
     "fetched_at": 1795281447,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1138074",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-strategic-technical-advisor-thrive-1138074",
+    "title": "Strategic Technical Advisor",
+    "company": "Thrive",
+    "tags": [
+      "infosec",
+      "education",
+      "technical",
+      "customer support",
+      "finance",
+      "cloud",
+      "exec",
+      "ops",
+      "engineer"
+    ],
+    "salary_min": 128091,
+    "salary_max": 128091,
+    "location": "remote",
+    "description_snippet": "<p>Thrive is an innovative technology solutions provider focused on Cyber Security, Hybrid Cloud, Global Network Management, Disaster Recovery, and traditional Managed Services. Our corporate culture, engineering talent, customer-centric approach, and focus upon NextGen services ",
+    "posted_at": "2026-11-23T16:00:27+00:00",
+    "fetched_at": 1795546014,
+    "status": "new"
   }
 ]
