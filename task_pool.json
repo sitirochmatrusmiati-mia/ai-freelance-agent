@@ -6215,5 +6215,34 @@
     "posted_at": "2026-11-23T16:00:27+00:00",
     "fetched_at": 1795546014,
     "status": "new"
+  },
+  {
+    "task_id": "remoteok-1138081",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081",
+    "title": "Revenue Operations Analyst",
+    "company": "Augment",
+    "tags": [
+      "analyst",
+      "saas",
+      "recruiter",
+      "customer support",
+      "marketing",
+      "exec",
+      "finance",
+      "admin",
+      "ops",
+      "excel",
+      "legal",
+      "sales",
+      "medical"
+    ],
+    "salary_min": 0,
+    "salary_max": 0,
+    "location": "remote",
+    "description_snippet": "<h2>About Augment</h2><p style=\"min-height:1.5em\">Logistics is broken. Let's fix it.</p><p style=\"min-height:1.5em\">We are a team of engineers, product designers, and customer champions building Augie, Augment's AI teammate for supply chain. Augie reasons and acts like a seasoned",
+    "posted_at": "2026-11-24T08:00:11+00:00",
+    "fetched_at": 1795610247,
+    "status": "new"
   }
 ]
